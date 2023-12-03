@@ -1,5 +1,5 @@
-GyverPanelWiFi_v1.13.mklittlefs address : 0x200000
-GyverPanelWiFi_v1.13.ino        address : 0x00000000
+GyverPanelWiFi_v1.14.mklittlefs address : 0x200000
+GyverPanelWiFi_v1.14.ino        address : 0x00000000
 
 
 https://dl.espressif.com/dl/package_esp32_index.json
